@@ -1,0 +1,5 @@
+{
+  "name": "Keshra AI - Premium Mobile Assistant",
+  "description": "A high-end, mobile-first AI assistant powered by Gemini, featuring voice chat, image generation, and data analysis.",
+  "requestFramePermissions": ["microphone"]
+}
